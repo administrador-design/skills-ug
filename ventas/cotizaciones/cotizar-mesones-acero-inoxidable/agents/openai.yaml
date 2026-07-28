@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cotizar mesones de acero"
+  short_description: "Cotiza mesas, muebles y pozuelos inoxidables"
+  default_prompt: "Usa $cotizar-mesones-acero-inoxidable para cotizar este mesón con despiece, IVA y detalles de fabricación."
