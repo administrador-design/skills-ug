@@ -8,6 +8,20 @@ personas autorizadas. Las skills generales o no relacionadas con Universo
 Gastronómico se mantienen en el entorno interno hasta recibir una instrucción
 expresa para publicarlas.
 
+## Inicio obligatorio de cada trabajo
+
+Antes de empezar cualquier trabajo en este proyecto, descargar o sincronizar la
+última versión de la rama `main` del repositorio remoto. Otro agente puede haber
+modificado el repositorio desde la sesión anterior.
+
+Después de sincronizar, leer completamente `AGENTS.md` y este `README.md` antes
+de revisar, crear o modificar archivos. No trabajar sobre una copia local
+desactualizada.
+
+Si existen cambios locales o conflictos con la versión remota, conservar ambos
+estados, inspeccionar las diferencias y resolverlas sin sobrescribir cambios de
+otro agente.
+
 ## Organización
 
 Las skills se clasifican por área y proceso.
