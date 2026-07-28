@@ -1,6 +1,6 @@
 ---
 name: "cotizar-mesones-acero-inoxidable"
-description: "Cotiza mesas y muebles en acero inoxidable 304/430, incluidos pozuelos de lavado, con despiece, patas, amarres, mínimos e IVA. Usar para cotizaciones de mesones, mesas de trabajo, muebles y mesas con pozuelo."
+description: "Añade cotización de pozuelos y separa reglas, script y metadatos."
 ---
 
 # Cotizar mesones y carpintería en acero inoxidable
