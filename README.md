@@ -12,6 +12,10 @@ expresa para publicarlas.
 
 Las skills se clasifican por área y proceso:
 
+El árbol de carpetas de este README es el índice estructural oficial. Toda
+creación, traslado o eliminación de una skill debe actualizar este árbol y la
+lista de skills publicadas como parte del mismo cambio.
+
 ```text
 skills-ug/
 └── ventas/
